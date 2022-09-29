@@ -12,9 +12,9 @@ Hopefully I will log all steps through the process of making this application.
 
 # Guide
 
-1. [Make a project vision](#ProjectVision)
+1. [Make a project vision](#Project%20Vision)
 
-## ProjectVision
+## Project Vision
 
 To begin, I created [Project Vision](./docs/ProjectVision.md). This helps a lot 
 for getting a better idea of what you want to do and the roadblocks you may face
