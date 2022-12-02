@@ -1,10 +1,10 @@
-package com.mattshero.springsecurityfin;
+package com.mattshero.shop.ECommerceApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class ECommerceApplicationTests {
 
 	@Test
 	void contextLoads() {
